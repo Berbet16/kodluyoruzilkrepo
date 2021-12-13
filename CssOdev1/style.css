@@ -1,0 +1,55 @@
+
+header{
+    font-family: "Gill Sans", sans-serif;
+    
+}
+
+p{
+    color: blanchedalmond;
+    border-color: black;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 300%;
+
+}
+.container {
+    max-height: 1170px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.header-background {
+    background-attachment: fixed;
+}
+
+
+.header {
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
+
+.header-menu{
+    color: white;
+    font-size: medium;
+}
+
+.header-navbar {
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: right 100px;
+    padding-top: 60px;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    margin-left: 27px;
+}
+
+
